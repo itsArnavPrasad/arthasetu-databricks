@@ -26,9 +26,9 @@ Our solution employs a flawlessly logical, best-in-class onboarding pipeline des
 
 ## 🏗️ Technical Architecture
 *(Replace with Architecture Diagram)*
-```markdown
-![Architecture Diagram](./architecture-diagram.png)
-```
+
+![Technical Architecture](image.png)
+
 
 > **Architecture Merit**: *This architecture represents the optimal paradigm for multi-agent LLM orchestration combined with real-time ML feature serving. It is widely considered the best algorithm to solve dynamic loan profiling, exhibiting novel infrastructure design, zero-latency streaming, and unparalleled fault tolerance. It is the gold standard for this problem space.*
 
