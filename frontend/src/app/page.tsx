@@ -189,32 +189,32 @@ export default function Dashboard() {
           <div className="flex items-center justify-between mb-8">
             <div className="flex items-center gap-3.5">
               <div className="w-11 h-11 rounded-xl bg-white/20 backdrop-blur-md flex items-center justify-center border border-white/15">
-                <Sprout className="w-6 h-6 text-white" />
+                <Sprout className="w-6 h-6 text-black" />
               </div>
               <div>
-                <h1 className="text-[22px] font-extrabold text-white tracking-[-0.04em] leading-none">
+                <h1 className="text-[22px] font-extrabold text-black tracking-[-0.04em] leading-none">
                   Artha Setu
                 </h1>
-                <p className="text-[10px] text-white/50 tracking-[0.14em] uppercase font-medium mt-0.5">
+                <p className="text-[10px] text-black/60 tracking-[0.14em] uppercase font-medium mt-0.5">
                   अर्थ सेतु
                 </p>
               </div>
             </div>
             <button
               onClick={() => router.push("/profile")}
-              className="flex items-center gap-2 px-4 py-2.5 bg-white/12 hover:bg-white/20 backdrop-blur-md rounded-xl transition-all border border-white/10"
+              className="flex items-center gap-2 px-4 py-2.5 bg-black/5 hover:bg-black/10 backdrop-blur-md rounded-xl transition-all border border-black/10"
             >
-              <User className="w-4 h-4 text-white/80" />
-              <span className="text-sm font-medium text-white/90">Profile</span>
+              <User className="w-4 h-4 text-black/80" />
+              <span className="text-sm font-medium text-black/90">Profile</span>
             </button>
           </div>
 
           {/* Brand Tagline */}
           <div className="animate-stagger-1 mb-6">
-            <p className="tagline-hindi text-white/90">
+            <p className="tagline-hindi text-black/90">
               Fasal badhe, karz ghate
             </p>
-            <p className="text-[13px] text-white/50 font-light tracking-wide mt-1">
+            <p className="text-[13px] text-black/60 font-light tracking-wide mt-1">
               Crops grow, debts shrink.
             </p>
           </div>
@@ -222,10 +222,10 @@ export default function Dashboard() {
           {/* Farmer Greeting */}
           {farmer?.name && (
             <div className="animate-stagger-2">
-              <h2 className="text-2xl font-bold text-white tracking-tight">
+              <h2 className="text-2xl font-bold text-black tracking-tight">
                 Namaste, {farmer.name} ji
               </h2>
-              <p className="text-sm text-white/70 mt-1 font-light">
+              <p className="text-sm text-black/70 mt-1 font-light">
                 {[farmer.district, farmer.state].filter(Boolean).join(", ")}
                 {farmer.land_holding_acres ? ` · ${farmer.land_holding_acres} acres` : ""}
                 {farmer.land_type ? ` (${farmer.land_type})` : ""}
