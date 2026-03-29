@@ -1,0 +1,4 @@
+user_id,loan_id,loan_amount,loan_start_date,loan_due_date,interest_rate,repayment_type,amount_repaid,outstanding_amount,missed_payments,days_past_due,default_flag
+ROSHAN02,RP2_L01,80000,2023-04-10,2023-12-10,14.5,seasonal,22000.0,66600.0,3,28,0
+ROSHAN02,RP2_L02,45000,2023-07-20,2024-03-20,16.0,bullet,0.0,48600.0,4,35,0
+ROSHAN02,RP2_L03,30000,2023-10-05,2024-04-05,17.25,EMI,5000.0,27587.5,2,18,0

@@ -1,0 +1,122 @@
+Year,Source_File,Commodity_Group,Commodity,MSP_Rs_Per_Quintal,Kharif_Season_Price_Rs_Per_Quintal,Kharif_Season_Arrival_Metric_Tonnes,Rabi_Season_Price_Rs_Per_Quintal,Rabi_Season_Arrival_Metric_Tonnes
+2021-22,Season_Price_Arrival_1.csv,Cereals,Bajra(Pearl Millet/Cumbu),2250.0,1829.57,986030.77,,
+2021-22,Season_Price_Arrival_1.csv,Cereals,Barley(Jau),1600.0,,,1951.81,238827.7
+2021-22,Season_Price_Arrival_1.csv,Cereals,Jowar(Sorghum),2738.0,2451.4,316909.84,,
+2021-22,Season_Price_Arrival_1.csv,Cereals,Maize,1870.0,1768.03,5330076.79,,
+2021-22,Season_Price_Arrival_1.csv,Cereals,Paddy(Common),1940.0,1981.56,23826270.33,,
+2021-22,Season_Price_Arrival_1.csv,Cereals,Ragi(Finger Millet),3377.0,2351.26,64623.5,,
+2021-22,Season_Price_Arrival_1.csv,Cereals,Wheat,1975.0,,,1969.85,21295109.68
+2021-22,Season_Price_Arrival_1.csv,Fibre Crops,Cotton,5726.0,8616.88,3618402.06,,
+2021-22,Season_Price_Arrival_1.csv,Fibre Crops,Jute,4500.0,,,6277.73,92889.0
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Copra,10335.0,,,13608.28,79976.56
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Groundnut,5550.0,5594.78,1975696.4,,
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Mustard,4650.0,,,6467.59,3054632.25
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Niger Seed(Ramtil),6930.0,6488.74,4863.47,,
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Safflower,5327.0,,,4995.43,5122.68
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",7307.0,10312.44,247135.56,,
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Soyabean,3950.0,5777.87,4911200.6,,
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Sunflower,5388.0,5741.09,65829.91,,
+2021-22,Season_Price_Arrival_1.csv,Oil Seeds,Toria,4650.0,,,6543.15,8515.53
+2021-22,Season_Price_Arrival_1.csv,Others,Sugarcane,285.0,308.07,32430.5,,
+2021-22,Season_Price_Arrival_1.csv,Pulses,Arhar(Tur/Red Gram)(Whole),6300.0,6066.41,1214583.17,,
+2021-22,Season_Price_Arrival_1.csv,Pulses,Bengal Gram(Gram)(Whole),5100.0,,,4815.95,2150884.49
+2021-22,Season_Price_Arrival_1.csv,Pulses,Black Gram(Urd Beans)(Whole),6300.0,,,5810.11,519898.55
+2021-22,Season_Price_Arrival_1.csv,Pulses,Green Gram(Moong)(Whole),7275.0,,,6095.99,696703.03
+2021-22,Season_Price_Arrival_1.csv,Pulses,Lentil(Masur)(Whole),5100.0,,,6241.43,529906.07
+2022-23,Season_Price_Arrival_2.csv,Cereals,Bajra(Pearl Millet/Cumbu),2350.0,2099.87,1196423.74,,
+2022-23,Season_Price_Arrival_2.csv,Cereals,Barley(Jau),1735.0,,,2527.0,342058.74
+2022-23,Season_Price_Arrival_2.csv,Cereals,Jowar(Sorghum),2970.0,3617.43,290245.34,,
+2022-23,Season_Price_Arrival_2.csv,Cereals,Maize,1962.0,1921.1,6535677.07,,
+2022-23,Season_Price_Arrival_2.csv,Cereals,Paddy(Common),2040.0,2159.43,31760458.09,,
+2022-23,Season_Price_Arrival_2.csv,Cereals,Ragi(Finger Millet),3578.0,3145.7,43598.07,,
+2022-23,Season_Price_Arrival_2.csv,Cereals,Wheat,2125.0,,,2173.77,26930519.93
+2022-23,Season_Price_Arrival_2.csv,Fibre Crops,Cotton,6080.0,7828.14,3959422.67,,
+2022-23,Season_Price_Arrival_2.csv,Fibre Crops,Jute,4500.0,,,5571.29,91898.71
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Copra,10335.0,,,10308.81,72186.61
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Groundnut,5850.0,6222.37,2087361.08,,
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Mustard,5050.0,,,5884.73,3829519.14
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Niger Seed(Ramtil),7287.0,6820.49,7003.4,,
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Safflower,5441.0,,,4745.01,7316.37
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",7830.0,13171.76,229368.3,,
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Soyabean,4300.0,5025.61,6047304.28,,
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Sunflower,6400.0,4869.34,75814.49,,
+2022-23,Season_Price_Arrival_2.csv,Oil Seeds,Toria,4650.0,,,5076.85,534.58
+2022-23,Season_Price_Arrival_2.csv,Others,Sugarcane,285.0,282.41,25963.5,,
+2022-23,Season_Price_Arrival_2.csv,Pulses,Arhar(Tur/Red Gram)(Whole),6600.0,7631.24,887317.07,,
+2022-23,Season_Price_Arrival_2.csv,Pulses,Bengal Gram(Gram)(Whole),5230.0,,,4742.04,2607937.47
+2022-23,Season_Price_Arrival_2.csv,Pulses,Black Gram(Urd Beans)(Whole),6600.0,,,6226.42,639239.0
+2022-23,Season_Price_Arrival_2.csv,Pulses,Green Gram(Moong)(Whole),7755.0,,,6428.75,687721.65
+2022-23,Season_Price_Arrival_2.csv,Pulses,Lentil(Masur)(Whole),5500.0,,,6312.68,873689.86
+2023-24,Season_Price_Arrival_3.csv,Cereals,Bajra(Pearl Millet/Cumbu),2500.0,2258.18,1196254.89,,
+2023-24,Season_Price_Arrival_3.csv,Cereals,Barley(Jau),1735.0,,,1887.63,561185.44
+2023-24,Season_Price_Arrival_3.csv,Cereals,Jowar(Sorghum),3180.0,3330.44,360521.33,,
+2023-24,Season_Price_Arrival_3.csv,Cereals,Maize,2090.0,2081.44,7105818.29,,
+2023-24,Season_Price_Arrival_3.csv,Cereals,Paddy(Common),2183.0,2323.9,33282705.45,,
+2023-24,Season_Price_Arrival_3.csv,Cereals,Ragi(Finger Millet),3846.0,3207.36,46017.6,,
+2023-24,Season_Price_Arrival_3.csv,Cereals,Wheat,2125.0,,,2262.35,26945606.66
+2023-24,Season_Price_Arrival_3.csv,Fibre Crops,Cotton,6620.0,6885.07,3256277.34,,
+2023-24,Season_Price_Arrival_3.csv,Fibre Crops,Jute,4750.0,,,5074.28,80416.67
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Copra,10590.0,,,8212.62,79696.45
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Groundnut,6377.0,6084.62,2107555.92,,
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Mustard,5450.0,,,5003.25,3256267.11
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Niger Seed(Ramtil),7734.0,7733.5,1128.26,,
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Safflower,5650.0,,,4292.24,10882.31
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",8635.0,13378.05,265401.07,,
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Soyabean,4600.0,4485.45,6597190.71,,
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Sunflower,6400.0,5860.45,53772.59,,
+2023-24,Season_Price_Arrival_3.csv,Oil Seeds,Toria,4650.0,,,4447.09,1765.08
+2023-24,Season_Price_Arrival_3.csv,Others,Sugarcane,285.0,294.92,33273.43,,
+2023-24,Season_Price_Arrival_3.csv,Pulses,Arhar(Tur/Red Gram)(Whole),7000.0,9885.24,884112.74,,
+2023-24,Season_Price_Arrival_3.csv,Pulses,Bengal Gram(Gram)(Whole),5335.0,,,5380.16,1945485.03
+2023-24,Season_Price_Arrival_3.csv,Pulses,Black Gram(Urd Beans)(Whole),6950.0,,,7761.89,505421.42
+2023-24,Season_Price_Arrival_3.csv,Pulses,Green Gram(Moong)(Whole),8558.0,,,7772.31,618766.1
+2023-24,Season_Price_Arrival_3.csv,Pulses,Lentil(Masur)(Whole),6000.0,,,5857.54,819707.02
+2024-25,Season_Price_Arrival_4.csv,Cereals,Bajra(Pearl Millet/Cumbu),2625.0,2460.71,1108977.34,,
+2024-25,Season_Price_Arrival_4.csv,Cereals,Barley(Jau),1850.0,,,1954.83,414041.91
+2024-25,Season_Price_Arrival_4.csv,Cereals,Jowar(Sorghum),3371.0,3321.69,206179.9,,
+2024-25,Season_Price_Arrival_4.csv,Cereals,Maize,2225.0,2171.09,9767708.82,,
+2024-25,Season_Price_Arrival_4.csv,Cereals,Paddy(Common),2300.0,2381.21,26355572.97,,
+2024-25,Season_Price_Arrival_4.csv,Cereals,Ragi(Finger Millet),4290.0,3199.06,33553.41,,
+2024-25,Season_Price_Arrival_4.csv,Cereals,Wheat,2275.0,,,2461.92,27267907.55
+2024-25,Season_Price_Arrival_4.csv,Fibre Crops,Cotton,7121.0,7178.04,3658944.33,,
+2024-25,Season_Price_Arrival_4.csv,Fibre Crops,Jute,4750.0,,,5290.69,97244.3
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Copra,10590.0,,,10834.31,129904.7
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Groundnut,6783.0,5334.93,2075312.38,,
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Mustard,5650.0,,,5512.04,2687281.9
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Niger Seed(Ramtil),8717.0,7823.61,759.1,,
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Safflower,5800.0,,,5720.76,6592.68
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",9267.0,10484.34,245432.71,,
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Soyabean,4892.0,4145.15,5566105.55,,
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Sunflower,7280.0,6997.52,61707.79,,
+2024-25,Season_Price_Arrival_4.csv,Oil Seeds,Toria,4650.0,,,5571.95,373.0
+2024-25,Season_Price_Arrival_4.csv,Others,Sugarcane,285.0,342.59,1961.4,,
+2024-25,Season_Price_Arrival_4.csv,Pulses,Arhar(Tur/Red Gram)(Whole),7550.0,7558.27,619449.75,,
+2024-25,Season_Price_Arrival_4.csv,Pulses,Bengal Gram(Gram)(Whole),5440.0,,,6163.59,1774081.23
+2024-25,Season_Price_Arrival_4.csv,Pulses,Black Gram(Urd Beans)(Whole),7400.0,,,7504.97,422903.62
+2024-25,Season_Price_Arrival_4.csv,Pulses,Green Gram(Moong)(Whole),8682.0,,,7405.15,734627.74
+2024-25,Season_Price_Arrival_4.csv,Pulses,Lentil(Masur)(Whole),6425.0,,,6147.02,558895.78
+2025-26,Season_Price_Arrival_5.csv,Cereals,Bajra(Pearl Millet/Cumbu),2775.0,2424.41,514553.66,,
+2025-26,Season_Price_Arrival_5.csv,Cereals,Barley(Jau),1980.0,,,2103.5,336683.67
+2025-26,Season_Price_Arrival_5.csv,Cereals,Jowar(Sorghum),3699.0,4321.14,38156.6,,
+2025-26,Season_Price_Arrival_5.csv,Cereals,Maize,2400.0,1649.66,5067908.38,,
+2025-26,Season_Price_Arrival_5.csv,Cereals,Paddy(Common),2369.0,2502.42,23004815.59,,
+2025-26,Season_Price_Arrival_5.csv,Cereals,Ragi(Finger Millet),4886.0,3390.13,5153.38,,
+2025-26,Season_Price_Arrival_5.csv,Cereals,Wheat,2425.0,,,2491.31,26793243.38
+2025-26,Season_Price_Arrival_5.csv,Fibre Crops,Cotton,7710.0,7363.49,1786565.1,,
+2025-26,Season_Price_Arrival_5.csv,Fibre Crops,Jute,5650.0,,,7102.1,50135.05
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Copra,12100.0,,,17841.38,21614.24
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Groundnut,7263.0,6168.89,698538.58,,
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Mustard,5950.0,,,6110.95,2486439.55
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Niger Seed(Ramtil),9537.0,9257.65,469.02,,
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Safflower,5940.0,,,6541.72,3656.55
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",9846.0,10131.98,37640.54,,
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Soyabean,5328.0,4444.78,2658919.36,,
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Sunflower,7721.0,7024.84,11369.44,,
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Sunflower Seed,6760.0,5892.79,149.0,,
+2025-26,Season_Price_Arrival_5.csv,Oil Seeds,Toria,4650.0,,,5839.83,121.09
+2025-26,Season_Price_Arrival_5.csv,Others,Sugarcane,285.0,349.45,3450.5,,
+2025-26,Season_Price_Arrival_5.csv,Pulses,Arhar(Tur/Red Gram)(Whole),8000.0,7351.95,336131.08,,
+2025-26,Season_Price_Arrival_5.csv,Pulses,Bengal Gram(Gram)(Whole),5650.0,,,5683.66,1558853.26
+2025-26,Season_Price_Arrival_5.csv,Pulses,Black Gram(Urd Beans)(Whole),7800.0,,,6829.49,319336.29
+2025-26,Season_Price_Arrival_5.csv,Pulses,Green Gram(Moong)(Whole),8768.0,,,6944.72,490392.63
+2025-26,Season_Price_Arrival_5.csv,Pulses,Lentil(Masur)(Whole),6700.0,,,6616.39,357121.47

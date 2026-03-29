@@ -1,0 +1,37 @@
+{
+  "user_id": "ROSHAN02",
+  "name": "Roshan Pandey",
+  "features": {
+    "total_transactions": 74,
+    "txn_frequency": 12.33,
+    "avg_transaction_amount": 3687.58,
+    "monthly_inflow": 16059.18,
+    "monthly_outflow": 29420.95,
+    "inflow_outflow_ratio": 0.55,
+    "inflow_variance": 114454994.82,
+    "avg_balance": -4746.85,
+    "min_balance": -29218.41,
+    "max_balance": 25940.48,
+    "balance_std": 14903.15,
+    "small_credit_count": 15,
+    "large_debit_count": 8,
+    "credit_debit_time_gap": 220.0,
+    "consecutive_zero_balance_days": 30,
+    "cash_vs_upi_ratio": 1.333,
+    "debt_to_income_ratio": 0.8,
+    "repayment_ratio": 0.17,
+    "missed_payment_count": 9,
+    "avg_days_past_due": 27,
+    "debt_growth_rate": 0.12,
+    "total_loan_amount": 155000,
+    "total_outstanding": 142787.5,
+    "avg_interest_rate": 15.92,
+    "num_loans": 3,
+    "outstanding_to_balance_ratio": 0
+  },
+  "predictions": {
+    "behavioral_class": "unstable",
+    "default_probability": 1,
+    "risk_tier": "high_risk"
+  }
+}

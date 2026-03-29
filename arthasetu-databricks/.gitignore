@@ -1,0 +1,3 @@
+venv/
+train_pipeline.ipynb
+train_yield_model.py

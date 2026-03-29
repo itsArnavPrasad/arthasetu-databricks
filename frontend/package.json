@@ -1,0 +1,37 @@
+{
+  "name": "krishirin-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@pipecat-ai/client-js": "^1.6.0",
+    "@pipecat-ai/client-react": "^1.1.0",
+    "@pipecat-ai/daily-transport": "^1.6.1",
+    "@pipecat-ai/small-webrtc-transport": "^1.9.0",
+    "@pipecat-ai/voice-ui-kit": "^0.8.1",
+    "gsap": "^3.14.2",
+    "lucide-react": "^0.511.0",
+    "next": "^15.5.0",
+    "ogl": "^1.0.11",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "recharts": "^3.8.1",
+    "three": "^0.183.2",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^15.5.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

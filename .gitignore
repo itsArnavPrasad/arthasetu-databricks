@@ -1,0 +1,18 @@
+.env
+A2UI/
+adk-samples/
+agents/
+pipecat/
+veritas_agents/
+voice-ui-kit/
+
+# environment folders and caches
+venv/
+node_modules/
+__pycache__/
+.DS_Store
+.claude/
+.adk/
+.next/
+build/
+dist/
