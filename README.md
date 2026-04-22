@@ -25,7 +25,6 @@ Our solution employs a flawlessly logical, best-in-class onboarding pipeline des
 4. **On-Call Real-Time Execution**: During the conversation, the On-Call agentic system listens to transcript data and optimizes the final loan policy, dynamically returning the absolute best recommendation tailored specifically to the farmer's real-time responses.
 
 ## 🏗️ Technical Architecture
-*(Replace with Architecture Diagram)*
 
 ![Technical Architecture](image.png)
 
